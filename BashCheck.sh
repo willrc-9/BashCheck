@@ -3,6 +3,7 @@
 # Script for basic IT support, inspired by Jahir Hussain on LinkedIn
 # Specifically for RHEL derivitives, ie Fedora, CentOS, Rocky, etc.
 
+# Information in Jahir's LinkedIn Windows Tool:
 # System Info, SFC Scan, SFC Verify Only
 # DISM Scan Health & DISM Repair (RestoreHealth)
 # Component Store Cleanup
