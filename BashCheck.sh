@@ -41,10 +41,10 @@ fi
 showMenu(){
 	clear
 	CYANTEXT "==========================================================="
-	CYANTEXT "===							  ==="
+	CYANTEXT "===							==="
 	CYANTEXT "=== BachCheck - Simple Linux Diagnostic and Repair Tool ==="
 	CYANTEXT "===            Written by William Collison              ==="
-	CYANTEXT "===							  ==="
+	CYANTEXT "===							==="
 	CYANTEXT "==========================================================="
 	echo ""
 	echo " 1) System Information & Performance"
